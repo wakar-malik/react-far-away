@@ -1,0 +1,10 @@
+.statisticsContainer {
+  display: grid;
+  place-items: center;
+  background-color: #76c7ad;
+  padding: 2rem;
+}
+
+.statisticsTitle {
+  font-size: 1.6rem;
+}

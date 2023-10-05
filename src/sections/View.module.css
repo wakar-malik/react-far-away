@@ -1,0 +1,8 @@
+.viewContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #5a3e2b;
+  padding: 2rem;
+  flex-grow: 1;
+}

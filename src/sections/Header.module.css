@@ -1,0 +1,12 @@
+.headerContainer {
+  display: grid;
+  place-items: center;
+  background-color: #f4a226;
+  padding: 2rem;
+}
+
+.headerTitle {
+  font-size: 4rem;
+  font-family: "Monoton", cursive;
+  font-weight: 500;
+}
