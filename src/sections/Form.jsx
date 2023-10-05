@@ -10,7 +10,7 @@ function Form({ onAddItem }) {
   const arr = [1, 2, 3, 4, 5];
 
   const handleNumber = (e) => {
-    setNumber(e.target.value);
+    setQuantity(e.target.value);
   };
 
   const handleName = (e) => {
