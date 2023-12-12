@@ -1,4 +1,4 @@
-<h1>Developed a user-friendly app allowing travelers to effortlessly track their luggage during tours, ensuring a stress-free journey.</h1>
+<p>Developed a user-friendly app allowing travelers to effortlessly track their luggage during tours, ensuring a stress-free journey.</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
